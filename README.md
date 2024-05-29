@@ -11,18 +11,22 @@ Discord: Florent_jqs
 
 - [es_extended](https://github.com/esx-framework/esx-legacy) (Latest)
 - [ox_lib](https://github.com/overextended/ox_lib)
-- [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) (Necesite screenshot-basic)
+- [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) (Need screenshot-basic)
 
 ## Admins Features
 
-- Online players manage menu
-- Reports
+- Online Players Manager (Warn, Message, Revive, Heal, Freeze, Send Emotes, Teleport, Setjob, etc...)
+- Reports Menu
 - Jail
-- Context Menu
+- Wipe (Weapons, Inventory, Character)
+- Context Menu (For everyone, includes Admin features)
+- Vehicles Menu (List, Repair, Spawn, Custom, etc...)
 - Advanced BanSystem
-- Personal Options (NoClip, Teleport, Player's Blip, Player's Tag, and more...)
+- Personal Options (NoClip, Teleport, Player's Blip, Player's Tag, and more, etc...)
 - Vehicles Options
-- Personal customization of the menu
+- Personal customization of the menu (Colors, Height, Hide Help Buttons, Hide admin Status)
+- Peds Menu
+- Gives Menu
 
 ## Developpers Features
 
