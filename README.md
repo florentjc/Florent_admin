@@ -36,7 +36,7 @@ Discord: Florent_jqs
 - Blips Builder
 - Gangs Builder
 - Characters Manager
-- PNJ Density Manager
+- NPC Density Manager
 - Doors Builder
 - Props Builder
 - Vehicles handlings editor
