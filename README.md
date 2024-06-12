@@ -44,3 +44,8 @@ Discord: Florent_jqs
 
 ## Credits
 - Florent (author): https://github.com/florentjc
+
+## INSTALLATION
+- Drop all files in your server resources path
+- Add this line in your server.cfg and restart your server :
+exec @Florent_admin/permissions.cfg
