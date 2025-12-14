@@ -1,4 +1,4 @@
-# Florent_admin
+# FAdmin
 An advanced admin menu for FiveM. All permissions are configurable.
 
 Discord: Florent_jqs
